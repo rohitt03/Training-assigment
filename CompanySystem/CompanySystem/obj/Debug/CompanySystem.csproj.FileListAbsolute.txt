@@ -1,0 +1,7 @@
+D:\Users\rpatil\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.csproj.AssemblyReference.cache
+D:\Users\rpatil\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.csproj.CoreCompileInputs.cache
+D:\Users\rpatil\source\repos\CompanySystem\CompanySystem\bin\Debug\CompanySystem.exe.config
+D:\Users\rpatil\source\repos\CompanySystem\CompanySystem\bin\Debug\CompanySystem.exe
+D:\Users\rpatil\source\repos\CompanySystem\CompanySystem\bin\Debug\CompanySystem.pdb
+D:\Users\rpatil\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.exe
+D:\Users\rpatil\source\repos\CompanySystem\CompanySystem\obj\Debug\CompanySystem.pdb
