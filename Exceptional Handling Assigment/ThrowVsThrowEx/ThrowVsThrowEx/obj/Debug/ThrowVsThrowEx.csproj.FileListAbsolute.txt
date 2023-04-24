@@ -1,0 +1,7 @@
+D:\Users\rpatil\source\repos\ThrowVsThrowEx\ThrowVsThrowEx\bin\Debug\ThrowVsThrowEx.exe.config
+D:\Users\rpatil\source\repos\ThrowVsThrowEx\ThrowVsThrowEx\bin\Debug\ThrowVsThrowEx.exe
+D:\Users\rpatil\source\repos\ThrowVsThrowEx\ThrowVsThrowEx\bin\Debug\ThrowVsThrowEx.pdb
+D:\Users\rpatil\source\repos\ThrowVsThrowEx\ThrowVsThrowEx\obj\Debug\ThrowVsThrowEx.csproj.AssemblyReference.cache
+D:\Users\rpatil\source\repos\ThrowVsThrowEx\ThrowVsThrowEx\obj\Debug\ThrowVsThrowEx.csproj.CoreCompileInputs.cache
+D:\Users\rpatil\source\repos\ThrowVsThrowEx\ThrowVsThrowEx\obj\Debug\ThrowVsThrowEx.exe
+D:\Users\rpatil\source\repos\ThrowVsThrowEx\ThrowVsThrowEx\obj\Debug\ThrowVsThrowEx.pdb

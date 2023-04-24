@@ -1,0 +1,7 @@
+D:\Users\rpatil\source\repos\UseCase1\UseCase1\obj\Debug\UseCase1.csproj.AssemblyReference.cache
+D:\Users\rpatil\source\repos\UseCase1\UseCase1\obj\Debug\UseCase1.csproj.CoreCompileInputs.cache
+D:\Users\rpatil\source\repos\UseCase1\UseCase1\bin\Debug\UseCase1.exe.config
+D:\Users\rpatil\source\repos\UseCase1\UseCase1\bin\Debug\UseCase1.exe
+D:\Users\rpatil\source\repos\UseCase1\UseCase1\bin\Debug\UseCase1.pdb
+D:\Users\rpatil\source\repos\UseCase1\UseCase1\obj\Debug\UseCase1.exe
+D:\Users\rpatil\source\repos\UseCase1\UseCase1\obj\Debug\UseCase1.pdb
