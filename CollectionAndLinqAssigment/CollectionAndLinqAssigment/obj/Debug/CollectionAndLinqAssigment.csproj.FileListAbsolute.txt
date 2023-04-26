@@ -1,0 +1,7 @@
+D:\Users\rpatil\source\repos\CollectionAndLinqAssigment\CollectionAndLinqAssigment\bin\Debug\CollectionAndLinqAssigment.exe.config
+D:\Users\rpatil\source\repos\CollectionAndLinqAssigment\CollectionAndLinqAssigment\bin\Debug\CollectionAndLinqAssigment.exe
+D:\Users\rpatil\source\repos\CollectionAndLinqAssigment\CollectionAndLinqAssigment\bin\Debug\CollectionAndLinqAssigment.pdb
+D:\Users\rpatil\source\repos\CollectionAndLinqAssigment\CollectionAndLinqAssigment\obj\Debug\CollectionAndLinqAssigment.csproj.AssemblyReference.cache
+D:\Users\rpatil\source\repos\CollectionAndLinqAssigment\CollectionAndLinqAssigment\obj\Debug\CollectionAndLinqAssigment.csproj.CoreCompileInputs.cache
+D:\Users\rpatil\source\repos\CollectionAndLinqAssigment\CollectionAndLinqAssigment\obj\Debug\CollectionAndLinqAssigment.exe
+D:\Users\rpatil\source\repos\CollectionAndLinqAssigment\CollectionAndLinqAssigment\obj\Debug\CollectionAndLinqAssigment.pdb
