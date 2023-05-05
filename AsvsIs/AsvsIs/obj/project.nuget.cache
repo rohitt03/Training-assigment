@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5gesBcvQJAAIkh8iU1aRova6ZUs/oqgHpI0elhAnVDZKWcIjyH1jLvZ3KeibYFMgc8E7yg1keguak1zDhsYkLQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\rpatil\\source\\repos\\AsvsIs\\AsvsIs\\AsvsIs.csproj",
+  "expectedPackageFiles": [
+    "D:\\Users\\rpatil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
