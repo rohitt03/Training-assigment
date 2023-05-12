@@ -1,0 +1,13 @@
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\obj\Debug\netcoreapp2.1\VehicleManagment.csproj.AssemblyReference.cache
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\obj\Debug\netcoreapp2.1\VehicleManagment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\obj\Debug\netcoreapp2.1\VehicleManagment.AssemblyInfoInputs.cache
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\obj\Debug\netcoreapp2.1\VehicleManagment.AssemblyInfo.cs
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\obj\Debug\netcoreapp2.1\VehicleManagment.csproj.CoreCompileInputs.cache
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\bin\Debug\netcoreapp2.1\VehicleManagment.deps.json
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\bin\Debug\netcoreapp2.1\VehicleManagment.runtimeconfig.json
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\bin\Debug\netcoreapp2.1\VehicleManagment.runtimeconfig.dev.json
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\bin\Debug\netcoreapp2.1\VehicleManagment.dll
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\bin\Debug\netcoreapp2.1\VehicleManagment.pdb
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\obj\Debug\netcoreapp2.1\VehicleManagment.dll
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\obj\Debug\netcoreapp2.1\VehicleManagment.pdb
+D:\Users\rpatil\source\repos\VehicleManagment\VehicleManagment\obj\Debug\netcoreapp2.1\VehicleManagment.genruntimeconfig.cache
